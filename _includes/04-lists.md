@@ -1,0 +1,11 @@
+- Music
+  - Hip-hop
+  - Electronic
+  - Jazz
+  - Drum & Bass
+- Books
+  - Graphic Novels
+- Videogames
+  - Platformers
+  - FPS
+  - MMORPG
