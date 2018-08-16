@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+- Music
+  - Hip-hop
+  - Electronic
+  - Jazz
+  - Drum & Bass
+- Books
+  - Graphic Novels
+- Videogames
+  - Platformers
+  - FPS
+  - MMORPG
